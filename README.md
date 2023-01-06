@@ -16,7 +16,7 @@ Saaed-Elgheir is a charity application for donating clothes and making a positiv
 
 [Documentation](https://linktodocumentation)
 
-![screens](https://iili.io/HRgmK67.md.png))
+![screens](https://iili.io/HRgmK67.md.png)
 
 ## Introduction
  - Saaed-Elgheir is a charity app that allows users to donate clothes to poor people, sell items, and make auctions on their items.
