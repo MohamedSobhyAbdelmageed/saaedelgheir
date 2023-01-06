@@ -54,7 +54,28 @@ Saaed-Elgheir is a charity application for donating clothes and making a positiv
    volunteer, or sell items.
 
 
+## User Interface:
+• The user interface of Saaed-Elgheir is designed to be user-friendly and easy to navigate.
+• Users can easily access all features of the app through the main menu.
+• The app includes a search function to help users find specific items or events.
+• Users can also track their donations, sales, and auctions through the app's dashboard.
 
+
+## Security:
+• Saaed-Elgheir takes the security of its users' personal and financial information seriously.
+• All transactions made through the app are securely processed using industry-standard encryption.
+• Saaed-Elgheir also has strict privacy policies in place to protect the personal information of its users.
+
+
+## Support:
+• If you have any questions or need assistance using Saaed-Elgheir, you can contact the support team through the app or by email.
+• The support team is available to help you with any issues you may encounter while using the app.
+
+
+## Updates:
+• Saaed-Elgheir is constantly updating and improving the app to provide the best possible experience for its users.
+• Users will be notified of any updates through the app or by email.
+• It is important to keep the app up to date in order to ensure that you have access to all the latest features and security fixes.
 
 
 
