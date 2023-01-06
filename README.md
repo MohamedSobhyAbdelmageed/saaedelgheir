@@ -37,3 +37,25 @@ Saaed-Elgheir is a charity application for donating clothes and making a positiv
 	4	Additionally, you can earn money by selling items you no longer need or request for Saaed-Elgheir to make 
 		an auction for you.
     
+
+## Benefits
+
+ - You can make a positive impact on the world around you by donating clothes or participating in volunteering events.
+ - You can earn money by selling items or participating in auctions.
+ - You can join teams with your friends or other members and be motivated by events held every month.
+ - Using Saaedelgheir can be a win-win situation as you can support your chosen charity while also making a small change 
+   to your schedule.
+
+
+## Conclusion
+
+ - Saaedelgheir is a great way to make a difference and help others while also having the opportunity to earn money.
+ - If you want to make a positive impact on the world and your community, consider using Saaedelgheir to donate clothes, 
+   volunteer, or sell items.
+
+
+
+
+
+
+
