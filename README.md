@@ -29,5 +29,6 @@ Saaed-Elgheir is a charity application for donating clothes and making a positiv
 	1	To get started, open the app and register with your phone number.
 	2	You can choose to donate clothes by sending them to poor people through the app.
 	3	You can also participate in volunteering events organized by Saaed-Elgheir to give back to your community.
-	4	Additionally, you can earn money by selling items you no longer need or request for Saaed-Elgheir to make an auction for you.
+	4	Additionally, you can earn money by selling items you no longer need or request for Saaed-Elgheir to make 
+		an auction for you.
     
