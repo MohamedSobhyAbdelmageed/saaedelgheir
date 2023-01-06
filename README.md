@@ -75,11 +75,11 @@ Saaed-Elgheir is a charity application for donating clothes and making a positiv
 ## Documentation 
 
 ### Packages:
-com.mohamedsobhy.saaedelgheir:
-com.mohamedsobhy.saaedelgheir.adapters:
-com.mohamedsobhy.saaedelgheir.map:
-com.mohamedsobhy.saaedelgheir.model:
-com.mohamedsobhy.saaedelgheir.utils:
+
+	1	adapters:
+	2	map.
+	3	model.
+	3	utils.
 
 
 ### Classes:
