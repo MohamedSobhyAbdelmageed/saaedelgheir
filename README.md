@@ -158,6 +158,11 @@ UserCompareByPoints
  - Saaed-Elgheir is constantly updating and improving the app to provide the best possible experience for its users.
  - Users will be notified of any updates through the app or by email.
  - It is important to keep the app up to date in order to ensure that you have access to all the latest features and security fixes.
+ - Although the app is in the development stage, we have already received an award from OneMillionArabCoders for our programming 
+   and development efforts.
+ - However, we need additional funding in order to bring on two more non-profits before our official launch.
+
+ #### We believe that Saaedelgheir has the potential to make a significant difference in the lives of those in need.
 
 
 
