@@ -9,7 +9,8 @@ Saaed-Elgheir is a charity application for donating clothes and making a positiv
 
 ## Authors
 - Mohamed Sobhy Abdelmageed 
-![author](https://iili.io/HRr2yhu.png](https://iili.io/HRiSR5l.jpg)
+
+![author](https://iili.io/HRiSR5l.jpg)
 
 
 ## Introduction
