@@ -49,6 +49,99 @@ Saaed-Elgheir is a charity application for donating clothes and making a positiv
  - If you want to make a positive impact on the world and your community, consider using Saaedelgheir to donate clothes, 
    volunteer, or sell items.
 
+## Documentation 
+
+## Packages:
+	*	adapters:
+	*	map.
+	*	model.
+	*	utils.
+	*	view.
+
+
+## Classes:
+AccountsAdminActivity,
+AccountsAdminAdapter,
+ActivitySplash,
+AddEventActivity,
+AddNewsActivity,
+APIService,
+AuctionAdminItemsAdapter,
+AuctionAdminItemsRecycleControlActivity,
+AuctionFormItemAdminActivity,
+AuctionItem,
+AuctionItemsUserRecycle,
+AuctionItemsUserRecycle.AuctionViewHolder,
+AuctionRecycleItemsActivity,
+AuctionUser,
+BookedItem,
+BookedItemForSellAdminAdapter,
+BookedItemsRecycleActivity,
+Client,
+Constants,
+DashboardActivity,
+Data,
+DeleteEventActivity,
+DeleteNewsActivity,
+DonateCloth,
+DonateFormClothActivity,
+DonateFragment,
+DonateMapLocActivity,
+DonatePermissionActivity,
+DonationAdminAdapter,
+DonationControlActivity,
+EditUserAccountActivity,
+EventDeleteAdapter,
+Events,
+EventsCompareByCounter,
+EventsFragment,
+EventsRecycleAdapter,
+EventVolunteer,
+ExampleInstrumentedTest,
+ExampleUnitTest,
+FragmentsListViewPagerAdapter,
+GalleryFragment,
+Helper,
+HomeFragment,
+ImagesSellRecycleAdapter,
+InfoActivity,
+InfoApp,
+InfoFormActivity,
+InfoProfileFragment,
+InputValidation,
+ItemForSell,
+ItemsActivationRecycle,
+ItemsAdminActivationActivity,
+LocaleHelper,
+LoginPhoneAuthActivity,
+MainActivity,
+MapLocActivity,
+MyFirebaseIdService,
+MyFirebaseMessaging,
+MyResponse,
+News,
+NewsDeleteAdapter,
+NewsRecycleAdapter,
+NotifactionFragment,
+NotificationMsg,
+OreoNotification,
+PermissionsActivity,
+ProfileFragment,
+RankAllPeopleActivity,
+RankScoreRecycle,
+SalesRecycleItemsActivity,
+ScorePointsFragment,
+SellFragment,
+Sender,
+SingleItemSlideAdapter,
+SingleSalesItemGalleryActivity,
+SlideSellRulesAdapter,
+TermsConditionsActivity,
+Token,
+UploadImageActicity,
+UploadItemData,
+User,
+UserCompareByPoints
 
 ## User Interface:
  - The user interface of Saaed-Elgheir is designed to be user-friendly and easy to navigate.
@@ -72,97 +165,5 @@ Saaed-Elgheir is a charity application for donating clothes and making a positiv
  - It is important to keep the app up to date in order to ensure that you have access to all the latest features and security fixes.
 
 
-## Documentation 
 
-### Packages:
-	*	adapters:
-	*	map.
-	*	model.
-	*	utils.
-	*	view.
-
-
-### Classes:
-AccountsAdminActivity.
-AccountsAdminAdapter.
-ActivitySplash.
-AddEventActivity.
-AddNewsActivity.
-APIService.
-AuctionAdminItemsAdapter.
-AuctionAdminItemsRecycleControlActivity.
-AuctionFormItemAdminActivity.
-AuctionItem.
-AuctionItemsUserRecycle.
-AuctionItemsUserRecycle.AuctionViewHolder.
-AuctionRecycleItemsActivity.
-AuctionUser.
-BookedItem.
-BookedItemForSellAdminAdapter.
-BookedItemsRecycleActivity.
-Client.
-Constants.
-DashboardActivity.
-Data.
-DeleteEventActivity.
-DeleteNewsActivity.
-DonateCloth.
-DonateFormClothActivity.
-DonateFragment.
-DonateMapLocActivity.
-DonatePermissionActivity.
-DonationAdminAdapter.
-DonationControlActivity.
-EditUserAccountActivity.
-EventDeleteAdapter.
-Events.
-EventsCompareByCounter.
-EventsFragment.
-EventsRecycleAdapter.
-EventVolunteer.
-ExampleInstrumentedTest.
-ExampleUnitTest.
-FragmentsListViewPagerAdapter.
-GalleryFragment.
-Helper.
-HomeFragment.
-ImagesSellRecycleAdapter.
-InfoActivity.
-InfoApp.
-InfoFormActivity.
-InfoProfileFragment.
-InputValidation.
-ItemForSell.
-ItemsActivationRecycle.
-ItemsAdminActivationActivity.
-LocaleHelper.
-LoginPhoneAuthActivity.
-MainActivity.
-MapLocActivity.
-MyFirebaseIdService.
-MyFirebaseMessaging.
-MyResponse.
-News.
-NewsDeleteAdapter.
-NewsRecycleAdapter.
-NotifactionFragment.
-NotificationMsg.
-OreoNotification.
-PermissionsActivity.
-ProfileFragment.
-RankAllPeopleActivity.
-RankScoreRecycle.
-SalesRecycleItemsActivity.
-ScorePointsFragment.
-SellFragment.
-Sender.
-SingleItemSlideAdapter.
-SingleSalesItemGalleryActivity.
-SlideSellRulesAdapter.
-TermsConditionsActivity.
-Token.
-UploadImageActicity.
-UploadItemData.
-User.
-UserCompareByPoints.
 
